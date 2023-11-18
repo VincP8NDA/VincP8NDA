@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VincP8NDA,Fullname's Phorn Savin
 - General Ai
-- GSEC Nasa
+- GSEC Nasa...python c++
 - Cyber security(Junior)
 - Graphic&Ui Designer.
 
